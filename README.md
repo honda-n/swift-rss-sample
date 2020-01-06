@@ -1,5 +1,5 @@
 # swift-rss-sample
-An RSS reader app written in [Swift](https://developer.apple.com/swift/). Have an idea [swift-rss-sample](https://github.com/wantedly/swift-rss-sample).
+An RSS reader app written in [Swift](https://developer.apple.com/swift/). Inspired by [swift-rss-sample](https://github.com/wantedly/swift-rss-sample).
 
 ![Movie](https://github.com/honda-n/swift-rss-sample/blob/master/movie.gif)
 
